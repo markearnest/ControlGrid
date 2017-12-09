@@ -1,0 +1,178 @@
+{
+  "Griditems": [
+    {
+      "name": "zway_zwayDevice_192_168_1_9_13_switchPowerOutlet_ZWayVDev_zway_13_0_37",
+      "label": "Office Light",
+      "type": "SWITCH",
+      "key": "1"
+    },
+    {
+      "name": "zway_zwayDevice_40e57986_3_switchPowerOutlet_ZWayVDev_zway_3_0_37",
+      "label": "Office Desk",
+      "type": "SWITCH",
+      "key": "2"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_16_switchPowerOutlet_ZWayVDev_zway_16_0_37",
+      "label": "Kitchen Table",
+      "type": "SWITCH",
+      "key": "3"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_14_switchMultilevel_ZWayVDev_zway_14_0_38",
+      "label": "Kitchen Light",
+      "type": "DIMMER",
+      "key": "4"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_10_switchPowerOutlet_ZWayVDev_zway_10_0_37",
+      "label": "Entryway Light",
+      "type": "SWITCH",
+      "key": "5"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_15_switchPowerOutlet_ZWayVDev_zway_15_0_37",
+      "label": "Upstairs Hall Light",
+      "type": "SWITCH",
+      "key": "6"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_9_switchPowerOutlet_ZWayVDev_zway_9_0_37",
+      "label": "Family Room Light",
+      "type": "SWITCH",
+      "key": "7"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_8_switchPowerOutlet_ZWayVDev_zway_8_0_37",
+      "label": "Family Room Floor Light",
+      "type": "SWITCH",
+      "key": "8"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_6_switchPowerOutlet_ZWayVDev_zway_6_0_37",
+      "label": "Living Room Floor Light",
+      "type": "SWITCH",
+      "key": "9"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_17_switchMultilevel_ZWayVDev_zway_17_0_38",
+      "label": "Dining Room Light",
+      "type": "DIMMER",
+      "key": "0"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_18_switchPowerOutlet_ZWayVDev_zway_18_0_37",
+      "label": "Master Bedroom Light",
+      "type": "SWITCH",
+      "key": "a"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_19_switchPowerOutlet_ZWayVDev_zway_19_0_37",
+      "label": "Garage Light",
+      "type": "SWITCH",
+      "key": "b"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_23_switchPowerOutlet_ZWayVDev_zway_23_0_37",
+      "label": "Basement Light",
+      "type": "SWITCH",
+      "key": "c"
+    },
+     {
+      "name": "zway_zwayDevice_192_168_1_9_24_switchPowerOutlet_ZWayVDev_zway_24_0_37",
+      "label": "Driveway Light",
+      "type": "SWITCH",
+      "key": "d"
+    },
+     {
+      "name": "zway_zwayDevice_192_168_1_9_22_switchPowerOutlet_ZWayVDev_zway_22_0_37",
+      "label": "Deck Light",
+      "type": "SWITCH",
+      "key": "e"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_5_switchPowerOutlet_ZWayVDev_zway_5_0_37",
+      "label": "Front Outside Lights",
+      "type": "SWITCH",
+      "key": "s"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_7_switchPowerOutlet_ZWayVDev_zway_7_0_37",
+      "label": "Front Outside Plug",
+      "type": "SWITCH",
+      "key": "t"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_20_switchPowerOutlet_ZWayVDev_zway_20_0_37",
+      "label": "Rear Outside Plug",
+      "type": "SWITCH",
+      "key": "u"
+    },
+    {
+      "name": "zway_zwayDevice_192_168_1_9_2_switchPowerOutlet_ZWayVDev_zway_2_0_37",
+      "label": "Turtle Tank Lights",
+      "type": "SWITCH",
+      "key": "v"
+    },
+    {
+      "name": "GarageDoorSwitch",
+      "label": "Garage Door",
+      "type": "DOOR",
+      "key": "w"
+    },
+    {
+      "name": "diningRoomTemperature",
+      "label": "Dining Room Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "livingRoomTemperature",
+      "label": "Family Room Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "boysroomTemperature",
+      "label": "Boys Room Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "bedroomTemperature",
+      "label": "Master Bedroom Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "alexbedroomTemperature",
+      "label": "Alex Bedroom Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "officeTemperature",
+      "label": "Office Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "actualHumidity",
+      "label": "Dining Room Humidity",
+      "type": "HUMIDITY",
+      "key": ""
+    },
+    {
+      "name": "desiredHeat",
+      "label": "Desired Heat Temp",
+      "type": "TEMP",
+      "key": ""
+    },
+    {
+      "name": "desiredCool",
+      "label": "Desired Cool Temp",
+      "type": "TEMP",
+      "key": ""
+    }
+  ]
+}
